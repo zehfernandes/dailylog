@@ -1,6 +1,6 @@
 # dailylog
 
-Learned, Watched, Listened, Read each day, but none of your business.
+learned, watched, listened, read each day, but none of your business.
 
 ## Jan
 
