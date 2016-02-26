@@ -31,3 +31,9 @@ learned, watched, listened, read each day, but none of your business.
 - [Day 29](https://github.com/zehfernandes/dailylog/blob/master/jan/log-29-01-2016.md) `pearson correlation` `js`
 - [Day 30](https://github.com/zehfernandes/dailylog/blob/master/jan/log-30-01-2016.md) `day off`
 - [Day 31](https://github.com/zehfernandes/dailylog/blob/master/jan/log-31-01-2016.md) `film`
+
+## Fev
+
+- [Week 01.02.2016 - 07.02.2016](https://github.com/zehfernandes/dailylog/blob/master/fev/weeklog-02-02-2016.md) `user research` `grep` `dante`
+- [Week 08.02.2016 - 14.02.2016](https://github.com/zehfernandes/dailylog/blob/master/fev/weeklog-08-02-2016.md) `deep learning` `smartphones` `sprint`
+- [Week 15.02.2016 - 21.02.2016](https://github.com/zehfernandes/dailylog/blob/master/fev/weeklog-15-02-2016.md) `superscript` `cincinnatus`
