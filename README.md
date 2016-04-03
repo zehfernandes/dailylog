@@ -37,3 +37,7 @@ learned, watched, listened, read each day, but none of your business.
 - [Week 01.02.2016 - 07.02.2016](https://github.com/zehfernandes/dailylog/blob/master/fev/weeklog-02-02-2016.md) `user research` `grep` `dante`
 - [Week 08.02.2016 - 14.02.2016](https://github.com/zehfernandes/dailylog/blob/master/fev/weeklog-08-02-2016.md) `deep learning` `smartphones` `sprint`
 - [Week 15.02.2016 - 21.02.2016](https://github.com/zehfernandes/dailylog/blob/master/fev/weeklog-15-02-2016.md) `superscript` `cincinnatus`
+
+## Mar
+
+I failed and did not log any day. But I already started logging april
