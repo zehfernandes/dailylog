@@ -40,4 +40,5 @@ learned, watched, listened, read each day, but none of your business.
 
 ## Mar
 
-I failed and did not log any day. But I already started logging april
+I failed and didn't log any day. 
+But I already started logging april
