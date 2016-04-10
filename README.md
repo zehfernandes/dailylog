@@ -42,3 +42,7 @@ learned, watched, listened, read each day, but none of your business.
 
 I failed and didn't log any day. 
 But I already started logging april
+
+## Apr
+
+- [Week 01.04.2016 - 10.04.2016](https://github.com/zehfernandes/dailylog/blob/master/apr/weeklog-01-04-2016.md) `brazilian rap` `svg icon` `heisenberg` `antibiotic`
