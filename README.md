@@ -53,3 +53,4 @@ But I already started logging april
 ## May
 
 - [Week 01.05.2016 - 09.05.2016](https://github.com/zehfernandes/dailylog/blob/master/05-may/weeklog-01-05-2016.md) `mental model` `ruby`
+- [Week 16.05.2016 - 23.05.2016](https://github.com/zehfernandes/dailylog/blob/master/05-may/weeklog-16-05-2016.md) `variable naming` `holocracy` `hyper reality`
