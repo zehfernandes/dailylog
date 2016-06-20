@@ -37,6 +37,7 @@ learned, watched, listened, read each day, but none of your business.
 - [Week 01.02.2016 - 07.02.2016](https://github.com/zehfernandes/dailylog/blob/master/02-fev/weeklog-02-02-2016.md) `user research` `grep` `dante`
 - [Week 08.02.2016 - 14.02.2016](https://github.com/zehfernandes/dailylog/blob/master/02-fev/weeklog-08-02-2016.md) `deep learning` `smartphones` `sprint`
 - [Week 15.02.2016 - 21.02.2016](https://github.com/zehfernandes/dailylog/blob/master/02-fev/weeklog-15-02-2016.md) `superscript` `cincinnatus`
+- ~~Week 22.02.2016 - 28.02.2016~~ 
 
 ## Mar
 
@@ -61,3 +62,4 @@ But I already started logging april
 
 - ~~Week 30.05.2016 - 05.06.2016~~ 
 - [Week 06.06.2016 - 12.06.2016](https://github.com/zehfernandes/dailylog/blob/master/06-jun/weeklog-06-06-2016.md) `toilets` `math animation` `cruel optimism` `responsive sag`
+- [Week 13.06.2016 - 19.06.2016](https://github.com/zehfernandes/dailylog/blob/master/06-jun/weeklog-13-06-2016.md) `accessibility` `git` `monologue`
