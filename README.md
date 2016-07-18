@@ -64,3 +64,9 @@ But I already started logging april
 - [Week 06.06.2016 - 12.06.2016](https://github.com/zehfernandes/dailylog/blob/master/06-jun/weeklog-06-06-2016.md) `toilets` `math animation` `cruel optimism` `responsive sag`
 - [Week 13.06.2016 - 19.06.2016](https://github.com/zehfernandes/dailylog/blob/master/06-jun/weeklog-13-06-2016.md) `accessibility` `git` `monologue`
 - [Week 20.06.2016 - 26.06.2016](https://github.com/zehfernandes/dailylog/blob/master/06-jun/weeklog-20-06-2016.md) `svg gradient ` `dialogue` `management` `web future`
+- [Week 27.06.2016 - 03.07.2016](https://github.com/zehfernandes/dailylog/blob/master/06-jun/weeklog-27-06-2016.md) `bill murry` `after effects`
+
+## Jul
+
+- ~~Week 04.07.2016 - 10.07.2016~~ 
+- [Week 11.07.2016 - 17.07.2016](https://github.com/zehfernandes/dailylog/blob/master/06-jun/weeklog-11-07-2016.md) `spreadsheet` `alert system` `chat ui`
