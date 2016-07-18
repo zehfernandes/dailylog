@@ -11,7 +11,7 @@ learned, watched, listened, read each day, but none of your business.
 - [Day 09](https://github.com/zehfernandes/dailylog/blob/master/01-jan/log-09-01-2016.md) `day off`
 - [Day 10](https://github.com/zehfernandes/dailylog/blob/master/01-jan/log-10-01-2016.md) `redis` `milligram test` `cooking`
 - [Day 11](https://github.com/zehfernandes/dailylog/blob/master/01-jan/log-11-01-2016.md) `slack` `traffic`
-- [Day 12](https://github.com/zehfernandes/dailylog/blob/master/01-jan/log-12-01-2016.md) `git` `terminal` 
+- [Day 12](https://github.com/zehfernandes/dailylog/blob/master/01-jan/log-12-01-2016.md) `git` `terminal`
 - [Day 13](https://github.com/zehfernandes/dailylog/blob/master/01-jan/log-13-01-2016.md) `cuba` `film`
 - [Day 14](https://github.com/zehfernandes/dailylog/blob/master/01-jan/log-14-01-2016.md) `sprint` `js`
 - [Day 15](https://github.com/zehfernandes/dailylog/blob/master/01-jan/log-15-01-2016.md) `json` `dialogue` `ui conversation`
@@ -20,7 +20,7 @@ learned, watched, listened, read each day, but none of your business.
 - [Day 18](https://github.com/zehfernandes/dailylog/blob/master/01-jan/log-18-01-2016.md) `animation`
 - [Day 19](https://github.com/zehfernandes/dailylog/blob/master/01-jan/log-19-01-2016.md) `sprint` `git`
 - [Day 20](https://github.com/zehfernandes/dailylog/blob/master/01-jan/log-20-01-2016.md) `jsx`
-- [Day 21](https://github.com/zehfernandes/dailylog/blob/master/01-jan/log-21-01-2016.md) `chimero` `theodor nelson` 
+- [Day 21](https://github.com/zehfernandes/dailylog/blob/master/01-jan/log-21-01-2016.md) `chimero` `theodor nelson`
 - [Day 22](https://github.com/zehfernandes/dailylog/blob/master/01-jan/log-22-01-2016.md) `js` `const` `machine learning`
 - [Day 23](https://github.com/zehfernandes/dailylog/blob/master/01-jan/log-23-01-2016.md) `film` `future`
 - [Day 24](https://github.com/zehfernandes/dailylog/blob/master/01-jan/log-24-01-2016.md) `youtube`
@@ -37,11 +37,11 @@ learned, watched, listened, read each day, but none of your business.
 - [Week 01.02.2016 - 07.02.2016](https://github.com/zehfernandes/dailylog/blob/master/02-fev/weeklog-02-02-2016.md) `user research` `grep` `dante`
 - [Week 08.02.2016 - 14.02.2016](https://github.com/zehfernandes/dailylog/blob/master/02-fev/weeklog-08-02-2016.md) `deep learning` `smartphones` `sprint`
 - [Week 15.02.2016 - 21.02.2016](https://github.com/zehfernandes/dailylog/blob/master/02-fev/weeklog-15-02-2016.md) `superscript` `cincinnatus`
-- ~~Week 22.02.2016 - 28.02.2016~~ 
+- ~~Week 22.02.2016 - 28.02.2016~~
 
 ## Mar
 
-I failed and didn't log any day. 
+I failed and didn't log any day.
 But I already started logging april
 
 ## Apr
@@ -54,13 +54,13 @@ But I already started logging april
 ## May
 
 - [Week 01.05.2016 - 09.05.2016](https://github.com/zehfernandes/dailylog/blob/master/05-may/weeklog-01-05-2016.md) `mental model` `ruby`
-- ~~Week 10.05.2016 - 15.05.2016~~ 
+- ~~Week 10.05.2016 - 15.05.2016~~
 - [Week 16.05.2016 - 23.05.2016](https://github.com/zehfernandes/dailylog/blob/master/05-may/weeklog-16-05-2016.md) `variable naming` `holocracy` `hyper reality`
-- ~~Week 24.05.2016 - 29.05.2016~~ 
+- ~~Week 24.05.2016 - 29.05.2016~~
 
 ## Jun
 
-- ~~Week 30.05.2016 - 05.06.2016~~ 
+- ~~Week 30.05.2016 - 05.06.2016~~
 - [Week 06.06.2016 - 12.06.2016](https://github.com/zehfernandes/dailylog/blob/master/06-jun/weeklog-06-06-2016.md) `toilets` `math animation` `cruel optimism` `responsive sag`
 - [Week 13.06.2016 - 19.06.2016](https://github.com/zehfernandes/dailylog/blob/master/06-jun/weeklog-13-06-2016.md) `accessibility` `git` `monologue`
 - [Week 20.06.2016 - 26.06.2016](https://github.com/zehfernandes/dailylog/blob/master/06-jun/weeklog-20-06-2016.md) `svg gradient ` `dialogue` `management` `web future`
@@ -68,5 +68,5 @@ But I already started logging april
 
 ## Jul
 
-- ~~Week 04.07.2016 - 10.07.2016~~ 
+- ~~Week 04.07.2016 - 10.07.2016~~
 - [Week 11.07.2016 - 17.07.2016](https://github.com/zehfernandes/dailylog/blob/master/07-jul/weeklog-11-07-2016.md) `spreadsheet` `alert system` `chat ui`
