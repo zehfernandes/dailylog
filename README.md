@@ -70,3 +70,4 @@ But I already started logging april
 
 - ~~Week 04.07.2016 - 10.07.2016~~
 - [Week 11.07.2016 - 17.07.2016](https://github.com/zehfernandes/dailylog/blob/master/07-jul/weeklog-11-07-2016.md) `spreadsheet` `alert system` `chat ui`
+- [Week 18.07.2016 - 24.07.2016](https://github.com/zehfernandes/dailylog/blob/master/07-jul/weeklog-18-07-2016.md) `internet` `metrics` `specialist`
