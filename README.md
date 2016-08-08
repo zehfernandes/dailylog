@@ -75,4 +75,4 @@ But I already started logging april
 
 ## Ago
 
-- [Week 01.08.2016 - 07.08.2016](https://github.com/zehfernandes/dailylog/blob/master/08-ago/weeklog-01-08-2016.md) `opinion` `shokunin`
+- [Week 01.08.2016 - 07.08.2016](https://github.com/zehfernandes/dailylog/blob/master/08-ago/weeklog-01-08-2016.md) `opinion` `shokunin` `olympic games`
