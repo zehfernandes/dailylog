@@ -78,3 +78,12 @@ But I already started logging april
 - [Week 01.08.2016 - 07.08.2016](https://github.com/zehfernandes/dailylog/blob/master/08-ago/weeklog-01-08-2016.md) `opinion` `shokunin` `olympic games`
 - [Week 08.08.2016 - 14.08.2016](https://github.com/zehfernandes/dailylog/blob/master/08-ago/weeklog-08-08-2016.md) `hamlet` `data tables` `books` `olympic games`
 - [Week 15.08.2016 - 21.08.2016](https://github.com/zehfernandes/dailylog/blob/master/08-ago/weeklog-15-08-2016.md) `math` `bauhaus` `canvas`
+
+## Set
+
+OHH NO!
+
+## Oct
+
+- ~~Week 01.08.2016 - 09.08.2016~~
+- [Week 10.10.2016 - 16.10.2016](https://github.com/zehfernandes/dailylog/blob/master/10-oct/weeklog-10-10-2016.md) `critical path` `career` `shackleton`
