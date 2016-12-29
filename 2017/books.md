@@ -8,5 +8,5 @@ I've decided to maintain a public reading list. The goals are pretty simple:
 
 ## List
 
--[ ] [Eu não sou cachorro não](http://www.record.com.br/livro_sinopse.asp?id_livro=23014) | ARAÚJO, Paulo César de
--[ ] [Sapiens - Uma Breve História da Humanidade](https://www.amazon.com.br/Sapiens-Uma-Breve-Hist%C3%B3ria-Humanidade/dp/8525432180) | HARARI, Yuval Noah 
+- [ ] [Eu não sou cachorro não](http://www.record.com.br/livro_sinopse.asp?id_livro=23014) | ARAÚJO, Paulo César de
+- [ ] [Sapiens - Uma Breve História da Humanidade](https://www.amazon.com.br/Sapiens-Uma-Breve-Hist%C3%B3ria-Humanidade/dp/8525432180) | HARARI, Yuval Noah 
