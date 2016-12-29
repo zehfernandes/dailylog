@@ -1,4 +1,4 @@
-# 2016 ~dailylog~ weeklog
+# 2016 ~~dailylog~~ weeklog
 
 learned, watched, listened, read each day, but none of your business.
 
@@ -96,7 +96,7 @@ OHH NO!
 
 ## Dez
 
-- [Week 01.12.2016 - 07.12.2016](12-oct/weeklog-01-12-2016.md) `adventofcode` `privacy`
+- [Week 01.12.2016 - 07.12.2016](12-dez/weeklog-01-12-2016.md) `adventofcode` `privacy`
 - ~~Week 08.12.2016 - 15.12.2016~~
 - ~~Week 16.12.2016 - 23.12.2016~~
 - ~~Week 24.12.2016 - 31.12.2016~~
