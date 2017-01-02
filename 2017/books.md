@@ -1,12 +1,16 @@
 # Books
 
+> "For a 250 page book, might spend 15 minutes on overview (discovery), 4 hours on detailed reading (understand), and 20-30 minutes making notes(remember)" - PAUL N. EDWARDS
+
+
 Minha lista de leitura para 2017. Os objetivos são simples:
 
 * Manter a lista pública
 * Seguir a metodologia do Paul N. Edwards [How to read a book](http://pne.people.si.umich.edu/PDF/howtoread.pdf)
 * Divulgar as anotações como agradecimento aos que indicaram os livros <3
 
-> "For a 250 page book, might spend 15 minutes on overview (discovery), 4 hours on detailed reading (understand), and 20-30 minutes making notes(remember)" - PAUL N. EDWARDS
+
+<br/>
 
 ## Lista
 
@@ -23,7 +27,7 @@ Minha lista de leitura para 2017. Os objetivos são simples:
 - [ ] [Simulacros e Simulação](https://pt.wikipedia.org/wiki/Simulacros_e_Simula%C3%A7%C3%A3o) | BAUDRILLARD, Jean
 - [ ] [Lean Analytics](http://leananalyticsbook.com/) | RIES, Eric
 
-## Backlog de indicações
+### Backlog de indicações
 
 Se houver tempo ou necessidade esses livros são fortes candidatos para entrarem na lista de 2017.
 
