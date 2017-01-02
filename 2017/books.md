@@ -9,9 +9,6 @@ Minha lista de leitura para 2017. Os objetivos são simples:
 * Seguir a metodologia do Paul N. Edwards [How to read a book](http://pne.people.si.umich.edu/PDF/howtoread.pdf)
 * Divulgar as anotações como agradecimento aos que indicaram os livros <3
 
-
-<br/>
-
 ## Lista
 
 - [ ] [Eu não sou cachorro não](http://www.record.com.br/livro_sinopse.asp?id_livro=23014) | ARAÚJO, Paulo César de
