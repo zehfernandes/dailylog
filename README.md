@@ -6,7 +6,7 @@ New year, new approach, same purpose: Storage knowledge
 - `22 abr 17` | 🚀 | [Framer Loading Placeholder](https://github.com/zehfernandes/framer-loadingplaceholder/)
 - `05 mar 17` | 📚 | ["Eu não sou cachorro não"](2017/2017-03-05.md)
 - `02 fev 17` | 🦄 | [Presentation Markup](2017/2017-02-15.md)
-- `01 jan 17` | ✍🏻| [Joe Stewart - Maintaining Satisfaction as a Designer](2017/2017-01-07.md)
+- `01 jan 17` | ✍️ | [Joe Stewart - Maintaining Satisfaction as a Designer](2017/2017-01-07.md)
 - `02 fev 17` | 💎 | [Composition over Inheritance](2017/2017-01-05.md)
 
 ## Lists
