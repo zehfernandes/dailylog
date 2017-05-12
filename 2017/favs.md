@@ -1,6 +1,4 @@
-# Articles
-
-(some description here)
+# Favs
 
 ## Jan
 
