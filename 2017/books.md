@@ -11,18 +11,18 @@ Minha lista de leitura para 2017. Os objetivos são simples:
 
 ## Lista
 
-- [ ] [Eu não sou cachorro não](http://www.record.com.br/livro_sinopse.asp?id_livro=23014) | ARAÚJO, Paulo César de
-- [ ] [Introduction to the Theory of Computation](https://www.amazon.com.br/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X) | SIPSER, Michael
-- [ ] [Algorithm Design](https://www.amazon.com/Algorithm-Design-Jon-Kleinberg/dp/0321295358) | KLEINBERG, Jon
-- [ ] [Godel, Escher, Bach](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) | HOFSTADTER, Douglas
-- [ ] [Programming Design Systems](https://programmingdesignsystems.com/) | MADSEN, Rune
-- [ ] [The Timeless Way of Building](https://www.amazon.com/Timeless-Way-Building-Christopher-Alexander/dp/0195024028) | ALEXANDER, Christopher
-- [ ] [Sapiens - Uma Breve História da Humanidade](https://www.amazon.com.br/Sapiens-Uma-Breve-Hist%C3%B3ria-Humanidade/dp/8525432180) | HARARI, Yuval Noah 
-- [ ] [Game programming patterns](http://gameprogrammingpatterns.com/observer.html) | NYSTROM, Robert
-- [ ] [Graça Infinita](https://www.amazon.com.br/Gra%C3%A7a-Infinita-David-Foster-Wallace/dp/853592504X) | FOSTER, David
-- [ ] [Does God Play Dice?: Mathematics Chaos](https://www.amazon.com/Does-Play-Dice-Mathematics-Chaos/dp/0631232516) | STEWART, Ian
-- [ ] [Simulacros e Simulação](https://pt.wikipedia.org/wiki/Simulacros_e_Simula%C3%A7%C3%A3o) | BAUDRILLARD, Jean
-- [ ] [Lean Analytics](http://leananalyticsbook.com/) | RIES, Eric
+- [x] [Eu não sou cachorro não](2017-03-05.md) | ARAÚJO, Paulo César de
+- [ ] Introduction to the Theory of Computation | SIPSER, Michael
+- [ ] Algorithm Design | KLEINBERG, Jon
+- [ ] Godel, Escher, Bach | HOFSTADTER, Douglas
+- [ ] Programming Design Systems | MADSEN, Rune
+- [ ] The Timeless Way of Building | ALEXANDER, Christopher
+- [ ] Sapiens - Uma Breve História da Humanidade | HARARI, Yuval Noah
+- [ ] Game programming patterns | NYSTROM, Robert
+- [ ] Graça Infinita | FOSTER, David
+- [ ] Does God Play Dice?: Mathematics Chaos | STEWART, Ian
+- [ ] Simulacros e Simulação | BAUDRILLARD, Jean
+- [ ] Lean Analytics | RIES, Eric
 
 ### Backlog de indicações
 
