@@ -2,7 +2,9 @@
 
 New year, new approach, same purpose: Storage knowledge
 
-- `16 mai` | 📃 | [About digital chating](2017/2017-05-16.md)
+- `16 mai` | ✍️ | [Are there negative effects of using design systems in digital products?](2017/2017-05-16.md)
+- `16 mai` | 👻 | [Navalha de Occam]()
+- `15 mai` | 📃 | [About digital chating](2017/2017-05-15.md)
 - `14 mai` | 📃 | [Coding at 4am](2017/2017-05-14.md)
 - `12 mai` | 🦄 | [Comprar produtos enquanto assite contéudo](2017/2017-05-12.md)
 - `22 abr` | 🚀 | [Framer Loading Placeholder](https://github.com/zehfernandes/framer-loadingplaceholder/)
