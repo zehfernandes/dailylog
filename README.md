@@ -2,12 +2,17 @@
 
 New year, new approach, same purpose: Storage knowledge
 
-- `12 mai 17` | 🦄 | [Comprar produtos enquanto assite contéudo](2017/2017-05-12.md)
-- `22 abr 17` | 🚀 | [Framer Loading Placeholder](https://github.com/zehfernandes/framer-loadingplaceholder/)
-- `05 mar 17` | 📚 | ["Eu não sou cachorro não"](2017/2017-03-05.md)
-- `02 fev 17` | 🦄 | [Presentation Markup](2017/2017-02-15.md)
-- `01 jan 17` | ✍️ | [Joe Stewart - Maintaining Satisfaction as a Designer](2017/2017-01-07.md)
-- `02 fev 17` | 💎 | [Composition over Inheritance](2017/2017-01-05.md)
+- `16 mai` | 📃 | [About digital chating](2017/2017-05-16.md)
+- `14 mai` | 📃 | [Coding at 4am](2017/2017-05-14.md)
+- `12 mai` | 🦄 | [Comprar produtos enquanto assite contéudo](2017/2017-05-12.md)
+- `22 abr` | 🚀 | [Framer Loading Placeholder](https://github.com/zehfernandes/framer-loadingplaceholder/)
+- `20 abr` | 📚 | [O Estrangeiro](2017/2017-04-20.md)
+- `18 mar` | 📚 | [Elogio a beleza atlética](2017/2017-03-18.md)
+- `05 mar` | 📚 | [Eu não sou cachorro não](2017/2017-03-05.md)
+- `02 fev` | 🦄 | [Presentation Markup](2017/2017-02-15.md)
+- `07 jan` | 👻 | [Art Destruction](https://www.dropbox.com/sh/19qlcerdhmj9yx1/AACZDGs1LNlcZ32qy7-GPEy2a?dl=0)
+- `01 jan` | ✍️ | [Joe Stewart - Maintaining Satisfaction as a Designer](2017/2017-01-07.md)
+- `02 fev` | 💎 | [Composition over Inheritance](2017/2017-01-05.md)
 
 ## Lists
 

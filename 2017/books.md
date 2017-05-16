@@ -12,6 +12,8 @@ Minha lista de leitura para 2017. Os objetivos são simples:
 ## Lista
 
 - [x] [Eu não sou cachorro não](2017-03-05.md) | ARAÚJO, Paulo César de
+- [x] [Elogio a beleza atlética](2017/2017-03-18.md) | GUMBRECHT, Ulrish Hans
+- [x] [O Estrangeiro](2017-04-20.md) | CAMUS, Albert
 - [ ] Introduction to the Theory of Computation | SIPSER, Michael
 - [ ] Algorithm Design | KLEINBERG, Jon
 - [ ] Godel, Escher, Bach | HOFSTADTER, Douglas
