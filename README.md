@@ -4,6 +4,7 @@ New year, new approach, same purpose: Storage knowledge
 
 - `23 mai` | 💎 | [Color space and CSS in JS](2017/2017-05-23.md)
 - `18 mai` | 📃 | [My thoughts about usability tests](2017/2017-05-18.md)
+- `17 mai` | 🚀 | [Marvin boilerplate: SVG Icons pull request](https://github.com/workco/marvin/pull/18)
 - `16 mai` | ✍️ | [Are there negative effects of using design systems in digital products?](2017/2017-05-16.md)
 - `16 mai` | 👻 | [Navalha de Occam]()
 - `15 mai` | 📃 | [About digital chating](2017/2017-05-15.md)
