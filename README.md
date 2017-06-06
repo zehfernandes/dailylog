@@ -2,6 +2,8 @@
 
 New year, new approach, same purpose: Storage knowledge
 
+- `05 jun` | 👻 | [Humans vs Machines]()
+- `29 mai` | 💎 | [Reading and Writing DOM in Custom Element Constructors](https://slack-files.com/T03PF4L4C-F5L02PUPR-dba68f695a)
 - `23 mai` | 💎 | [Color space and CSS in JS](2017/2017-05-23.md)
 - `18 mai` | 📃 | [My thoughts about usability tests](2017/2017-05-18.md)
 - `17 mai` | 🚀 | [Marvin boilerplate: SVG Icons pull request](https://github.com/workco/marvin/pull/18)

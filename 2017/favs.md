@@ -33,3 +33,10 @@
 ```md
 - 2017 e o livro mais citado no Stack Overflow é sobre código legado. O futuro tende a piorar. Já estamos na terceira geração reescrevendo e expandindo os mesmos softwares.
 ```
+
+## Jun
+
+- https://www.quora.com/Why-dont-lowercase-and-uppercase-numbers-exist/answer/Archie-DCruz
+- "They phoned it in that afternoon with an auto-completed sentiment." [Source](https://www.fastcodesign.com/90126569/the-rise-of-autocomplete-culture)
+- "The human brain needs a narrative, even if that narrative is told through code." [Source](http://kellysutton.com/2017/05/29/deletability.html)
+
