@@ -2,6 +2,7 @@
 
 New year, new approach, same purpose: Storage knowledge
 
+- `10 jul` | ✍️ | [Pipeline, Post-Horror?](2017/2017-07-10.md)
 - `06 jul` | 🚀 | [Screeener: Screens to keynote magically](https://zehfernandes.github.io/screeener/)
 - `05 jun` | 👻 | [Humans vs Machines](https://www.dropbox.com/sh/odjukrf2zecry7e/AAAgq3MwVHMfUgQMx_YyIt1ga?dl=0)
 - `29 mai` | 💎 | [Reading and Writing DOM in Custom Element Constructors](https://slack-files.com/T03PF4L4C-F5L02PUPR-dba68f695a)
