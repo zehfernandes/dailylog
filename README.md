@@ -2,6 +2,7 @@
 
 New year, new approach, same purpose: Storage knowledge
 
+- `16 jul` | 📚 | [Design Para Um Mundo Complexo](2017/2017-07-16.md)
 - `10 jul` | ✍️ | [Pipeline, Post-Horror?](2017/2017-07-10.md)
 - `06 jul` | 🚀 | [Screeener: Screens to keynote magically](https://zehfernandes.github.io/screeener/)
 - `05 jun` | 👻 | [Humans vs Machines](https://www.dropbox.com/sh/odjukrf2zecry7e/AAAgq3MwVHMfUgQMx_YyIt1ga?dl=0)
