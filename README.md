@@ -2,6 +2,7 @@
 
 New year, new approach, same purpose: Storage knowledge
 
+- `09 ago` | 💎 | [Apps Script: Send email in a Google Spreesheet](2017/2017-08-09.md)
 - `26 jul` | 💎 | [My notes after used react native to publish one-week app](2017/2017-07-26.md)
 - `16 jul` | 📚 | [Design Para Um Mundo Complexo](2017/2017-07-16.md)
 - `10 jul` | ✍️ | [Pipeline, Post-Horror?](2017/2017-07-10.md)
