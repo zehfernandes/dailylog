@@ -2,11 +2,16 @@
 
 New year, new approach, same purpose: Storage knowledge
 
+- `06 set` | ✍️ | ["Herb Lubalin and Karl Gerstner" by Alexander Tochilovsky](2017/2017-09-06.md)
+- `03 set` | 🚀 | [Lista filé de podcasts](https://docs.google.com/spreadsheets/d/1-TijlMUdZB-9RlFTYHBywRQcOJvf-kw5lo-gFPKzL8g/edit?usp=sharing)
+- `22 ago` | 👻 | [Dom Casmurro](https://www.dropbox.com/sh/9rvsgvqnftlkqgq/AAD8yuDGvqqXvIxwR7OLQekFa?dl=0)
 - `09 ago` | 💎 | [Apps Script: Send email in a Google Spreesheet](2017/2017-08-09.md)
 - `26 jul` | 💎 | [My notes after used react native to publish one-week app](2017/2017-07-26.md)
 - `16 jul` | 📚 | [Design Para Um Mundo Complexo](2017/2017-07-16.md)
+- `11 jul` | 👻 | [Resiginificação do tempo](https://www.dropbox.com/sh/2n6qgfqkh8fn986/AABN47nGOjIHPcrebZgAD4bda?dl=0)
 - `10 jul` | ✍️ | [Pipeline, Post-Horror?](2017/2017-07-10.md)
 - `06 jul` | 🚀 | [Screeener: Screens to keynote magically](https://zehfernandes.github.io/screeener/)
+- `02 jul` | 🚀 | [Slides: Build for Destruction](https://speakerdeck.com/zehfernandes/build-for-destruction)
 - `05 jun` | 👻 | [Humans vs Machines](https://www.dropbox.com/sh/odjukrf2zecry7e/AAAgq3MwVHMfUgQMx_YyIt1ga?dl=0)
 - `29 mai` | 💎 | [Reading and Writing DOM in Custom Element Constructors](https://slack-files.com/T03PF4L4C-F5L02PUPR-dba68f695a)
 - `23 mai` | 💎 | [Color space and CSS in JS](2017/2017-05-23.md)
