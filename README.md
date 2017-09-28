@@ -2,6 +2,9 @@
 
 New year, new approach, same purpose: Storage knowledge
 
+- `28 set` | 📚 | [Sapiens - Uma Breve História da Humanidade](2017/2017-09-28.md)
+- `26 set` | 🚀 | [Screener v2.0](https://github.com/zehfernandes/screeener/releases/tag/v2.0.0)
+- `20 set` | 📃 | [Hi Data Science!](2017/2017-09-20.md)
 - `06 set` | ✍️ | ["Herb Lubalin and Karl Gerstner" by Alexander Tochilovsky](2017/2017-09-06.md)
 - `03 set` | 🚀 | [Lista filé de podcasts](https://docs.google.com/spreadsheets/d/1-TijlMUdZB-9RlFTYHBywRQcOJvf-kw5lo-gFPKzL8g/edit?usp=sharing)
 - `22 ago` | 👻 | [Dom Casmurro](https://www.dropbox.com/sh/9rvsgvqnftlkqgq/AAD8yuDGvqqXvIxwR7OLQekFa?dl=0)

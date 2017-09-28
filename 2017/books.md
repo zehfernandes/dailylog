@@ -16,15 +16,14 @@ Minha lista de leitura para 2017. Os objetivos são simples:
 - [x] [O Estrangeiro](2017-04-20.md) | CAMUS, Albert
 - [x] [Design Para Um Mundo Complexo](2017-07-16.md) | CARDOSO, Rafael
 - [x] Programming Design Systems | MADSEN, Rune
+- [x] The Politics of Design | PATER, Ruben 
+- [x] [Sapiens - Uma Breve História da Humanidade](2017-09-28.md) | HARARI, Yuval Noah
 - [ ] Introduction to the Theory of Computation | SIPSER, Michael
 - [ ] Algorithm Design | KLEINBERG, Jon
 - [ ] Godel, Escher, Bach | HOFSTADTER, Douglas
 - [ ] The Timeless Way of Building | ALEXANDER, Christopher
-- [ ] Sapiens - Uma Breve História da Humanidade | HARARI, Yuval Noah
 - [ ] Game programming patterns | NYSTROM, Robert
 - [ ] Graça Infinita | FOSTER, David
 - [ ] Does God Play Dice?: Mathematics Chaos | STEWART, Ian
 - [ ] Simulacros e Simulação | BAUDRILLARD, Jean
 - [ ] Lean Analytics | RIES, Eric
-
-### Backlog de indicações
