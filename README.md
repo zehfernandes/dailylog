@@ -2,6 +2,8 @@
 
 New year, new approach, same purpose: Storage knowledge
 
+- `11 out` | ✍️ | [But what *is* a Neural Network? | Deep learning](2017/2017-10-11.md)
+- `06 out` | 🚀 | [React Native 3D Cube Navigation](https://github.com/zehfernandes/react-native-3dcube-navigation)
 - `28 set` | 📚 | [Sapiens - Uma Breve História da Humanidade](2017/2017-09-28.md)
 - `26 set` | 🚀 | [Screener v2.0](https://github.com/zehfernandes/screeener/releases/tag/v2.0.0)
 - `20 set` | 📃 | [Hi Data Science!](2017/2017-09-20.md)
