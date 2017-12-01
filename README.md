@@ -2,6 +2,7 @@
 
 New year, new approach, same purpose: Storage knowledge
 
+- `30 nov` | 💎 | [Fetch pull requests and Configure prettier and eslint](2017/2017-11-30.md)
 - `19 nov` | 🚀 | [Plim - Presentation Mode](https://zehfernandes.github.io/pliim/)
 - `16 nov` | ✍️ | [Logan vs. Children of Men — The End is in the Beginning](2017/2017-11-16.md)
 - `11 out` | ✍️ | [But what *is* a Neural Network? | Deep learning](2017/2017-10-11.md)
