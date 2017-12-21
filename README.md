@@ -2,6 +2,9 @@
 
 New year, new approach, same purpose: Storage knowledge
 
+- `18 dez` | 📚 | [Design system](2017/2017-12-18.md)
+- `14 dez` | 👻 | [Every frame a painting](https://www.dropbox.com/sh/nhp3cojc8atkysk/AACHcoDV96beW0MsC5lmzTiYa?dl=0)
+- `02 dez` | 📚 | [Lean Analytics](2017/2017-12-02.md)
 - `30 nov` | 💎 | [Fetch pull requests and Configure prettier and eslint](2017/2017-11-30.md)
 - `19 nov` | 🚀 | [Plim - Presentation Mode](https://zehfernandes.github.io/pliim/)
 - `16 nov` | ✍️ | [Logan vs. Children of Men — The End is in the Beginning](2017/2017-11-16.md)
@@ -27,7 +30,7 @@ New year, new approach, same purpose: Storage knowledge
 - `17 mai` | 🚀 | [Marvin boilerplate: SVG Icons pull request](https://github.com/workco/marvin/pull/18)
 - `16 mai` | ✍️ | [Are there negative effects of using design systems in digital products?](2017/2017-05-16.md)
 - `16 mai` | 👻 | [Navalha de Occam](https://www.dropbox.com/sh/rq9ob7wycknjzjn/AACDncYR-gfhvRrVMGW7ESUAa?dl=0)
-- `15 mai` | 📃 | [About digital chating](2017/2017-05-15.md)
+- `15 mai` | 📃 | [About digital chat](2017/2017-05-15.md)
 - `14 mai` | 📃 | [Coding at 4am](2017/2017-05-14.md)
 - `12 mai` | 🦄 | [Comprar produtos enquanto assite contéudo](2017/2017-05-12.md)
 - `22 abr` | 🚀 | [Framer Loading Placeholder](https://github.com/zehfernandes/framer-loadingplaceholder/)
