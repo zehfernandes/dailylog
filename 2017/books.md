@@ -22,6 +22,8 @@ Minha lista de leitura para 2017. Os objetivos são simples:
 - [x] [Design Systems](2017-12-18.md) | KHOLMOTOVA, Alla
 - [ ] _(started)_ Godel, Escher, Bach | HOFSTADTER, Douglas 
 - [ ] _(started)_ The Timeless Way of Building | ALEXANDER, Christopher
+
+
 - [ ] Introduction to the Theory of Computation | SIPSER, Michael
 - [ ] Algorithm Design | KLEINBERG, Jon
 - [ ] Game programming patterns | NYSTROM, Robert
