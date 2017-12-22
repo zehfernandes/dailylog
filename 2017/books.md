@@ -20,8 +20,8 @@ Minha lista de leitura para 2017. Os objetivos são simples:
 - [x] [Sapiens - Uma Breve História da Humanidade](2017-09-28.md) | HARARI, Yuval Noah
 - [x] [Lean Analytics](2017-12-02.md) | CROLL, Alistair, YOSKOVITZ, Benjamin
 - [x] [Design Systems](2017-12-18.md) | KHOLMOTOVA, Alla
-- [ ] Godel, Escher, Bach | HOFSTADTER, Douglas
-- [ ] The Timeless Way of Building | ALEXANDER, Christopher
+- [ ] _(started)_ Godel, Escher, Bach | HOFSTADTER, Douglas 
+- [ ] _(started)_ The Timeless Way of Building | ALEXANDER, Christopher
 - [ ] Introduction to the Theory of Computation | SIPSER, Michael
 - [ ] Algorithm Design | KLEINBERG, Jon
 - [ ] Game programming patterns | NYSTROM, Robert
