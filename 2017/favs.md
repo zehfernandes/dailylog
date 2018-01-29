@@ -34,9 +34,19 @@
 - 2017 e o livro mais citado no Stack Overflow é sobre código legado. O futuro tende a piorar. Já estamos na terceira geração reescrevendo e expandindo os mesmos softwares.
 ```
 
+## May
+
+- https://docs.google.com/presentation/d/1MD-CgzODFWzdpnYXr8bEgysfDmb8PDV6iCAjH5JIvaI/preview#slide=id.g2230a66ea4_60_0
+
 ## Jun
 
 - https://www.quora.com/Why-dont-lowercase-and-uppercase-numbers-exist/answer/Archie-DCruz
 - "They phoned it in that afternoon with an auto-completed sentiment." [Source](https://www.fastcodesign.com/90126569/the-rise-of-autocomplete-culture)
 - "The human brain needs a narrative, even if that narrative is told through code." [Source](http://kellysutton.com/2017/05/29/deletability.html)
+- https://medium.com/testr/como-tabular-e-analisar-os-resultados-de-um-teste-de-usabilidade-7c37e6997fdc
+
+## Jul
+
+- http://boffosocko.com/2017/07/11/the-facebook-algorithm-mom-problem/
+- http://veekaybee.github.io/2017/02/01/facebook-is-collecting-this/
 
