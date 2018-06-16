@@ -12,8 +12,8 @@ My 2018 reading list. The objectives are simple:
 
 * [x] [Three-Body Problem | CIXIN, Liu](2018-01-24.md)
 * [x] [A Casa dos Budas Ditosos | UBALDO, João Ribeiro](2018-02-05.md)
+* [x] [Never Use Futura | THOMAS, Douglas](2018-03-15.md)
 * [ ] Thinking in Systems: A Primer | MEADOWNS, Donella H.
-* [ ] Never Use Futura | THOMAS, Douglas
 * [ ] Travessuras da Menina Má | LLOSA, Mario Vargas
 * [ ] Code: The Hidden Language of Computer | PETZOLD, Charles
 * [ ] Game Engine Black Book: Wolfenstein 3D | SANGLARD, Fabien
