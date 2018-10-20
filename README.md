@@ -2,8 +2,8 @@
 
 Searching for a better log format.
 
-* `28 set` | 📚 | [Homo Deus | HARARI, Yuval Noah](2018/2018-09-20.md)
-* `20 set` | 📚 | [Silence | KAGGE, Erling Kagge](2018/2018-09-28.md)
+* `28 set` | 📚 | [Homo Deus](2018/2018-09-20.md)
+* `20 set` | 📚 | [Silence](2018/2018-09-28.md)
 * `13 jul` | 🚀 | [Pliim v1.5](https://github.com/zehfernandes/pliim/releases/tag/v1.5.0)
 * `29 jun` | 🚀 | [Generative World Cup 2018](http://zehfernandes.com/generativeworldcup2018/)
 * `16 mai` | 🖼 | [Pen Plot Experiment 002](https://github.com/zehfernandes/penplotdiary/tree/master/day-02)
