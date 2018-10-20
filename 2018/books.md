@@ -15,6 +15,8 @@ My 2018 reading list. The objectives are simple:
 * [x] [Never Use Futura | THOMAS, Douglas](2018-03-15.md)
 * [x] [Architectural Intelligence | STEENSON, Molly Wright](2018-05-01.md)
 * [x] O amor dos homens avulsos | HERING, Victor
+* [x] [Homo Deus | HARARI, Yuval Noah](2018-09-20.md)
+* [x] [Silence | KAGGE, Erling Kagge](2018-09-28.md)
 * [ ] Thinking in Systems: A Primer | MEADOWNS, Donella H.
 * [ ] Travessuras da Menina Má | LLOSA, Mario Vargas
 * [ ] Code: The Hidden Language of Computer | PETZOLD, Charles
