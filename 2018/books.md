@@ -17,10 +17,10 @@ My 2018 reading list. The objectives are simple:
 * [x] O amor dos homens avulsos | HERING, Victor
 * [x] [Homo Deus | HARARI, Yuval Noah](2018-09-20.md)
 * [x] [Silence | KAGGE, Erling Kagge](2018-09-28.md)
+* [x] [Game Engine Black Book: Wolfenstein 3D | SANGLARD, Fabien](2018-10-25.md)
 * [ ] Thinking in Systems: A Primer | MEADOWNS, Donella H.
 * [ ] Travessuras da Menina Má | LLOSA, Mario Vargas
 * [ ] Code: The Hidden Language of Computer | PETZOLD, Charles
-* [ ] Game Engine Black Book: Wolfenstein 3D | SANGLARD, Fabien
 * [ ] The Timeless Way of Building | ALEXANDER, Christopher
 * [ ] Godel, Escher, Bach | HOFSTADTER, Douglas
 * [ ] Deep Thinking | KASPAROV, Garry
