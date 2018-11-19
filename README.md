@@ -2,8 +2,8 @@
 
 Searching for a better log format.
 
-* `29 jun` | 🚀 | [Workshop: Prototype with React Native](https://github.com/workco/workshop-prototype-react-native)
-* `29 jun` | 🚀 | [Sketch Pochette](https://github.com/zehfernandes/sketch-pochette)
+* `15 nov` | 🚀 | [Workshop: Prototype with React Native](https://github.com/workco/workshop-prototype-react-native)
+* `12 nov` | 🚀 | [Sketch Pochette](https://github.com/zehfernandes/sketch-pochette)
 * `25 oct` | 📚 | [Game Engine Black Book: Wolfenstein 3D](2018/2018-10-25.md)
 * `28 set` | 📚 | [Homo Deus](2018/2018-09-20.md)
 * `20 set` | 📚 | [Silence](2018/2018-09-28.md)
